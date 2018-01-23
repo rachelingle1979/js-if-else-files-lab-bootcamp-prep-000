@@ -1,5 +1,5 @@
 var names = "Susan";
-var height = "70";
+var height = 70;
 
 
 
